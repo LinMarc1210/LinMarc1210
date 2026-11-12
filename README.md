@@ -31,15 +31,5 @@
 | --- | --- |
 | [usc-llvm-compiler](https://github.com/LinMarc1210/usc-llvm-compiler) | LLVM IR optimization passes for a C-subset compiler: SSA construction, DCE, CSE, copy propagation, speculative LICM, edge profiling, register allocation |
 | [Rust-Compiler](https://github.com/LinMarc1210/Rust-Compiler) | Mini Rust front-end with flex/bison that emits Jasmin assembly and runs on the JVM |
-| [llm-perf-agent](https://github.com/PAS-ParallelMind/llm-perf-agent) | Tool-calling chat agent that answers LLM deployment questions (GPU sizing, TPOT, batch size, quantization) |
-| [llm-gpu-bench](https://github.com/PAS-ParallelMind/llm-gpu-bench) | Measures achievable GPU compute/memory throughput and turns it into LLM inference latency predictions |
 | [IIM-Project-Reshuffling](https://github.com/LinMarc1210/IIM-Project-Reshuffling) | Warehouse reshuffling with integer programming, heuristics (GA, PSO) and deep RL (DQN, MAAC) |
 | [CSIE-Project-FireDT](https://github.com/LinMarc1210/CSIE-Project-FireDT) | Capstone: indoor fire simulation based on digital twin, with material segmentation and RealSense 3D point clouds |
-| [CVPDL 2025](https://github.com/LinMarc1210/CVPDL_2025_HW1) | Object detection (Faster R-CNN, [YOLO11](https://github.com/LinMarc1210/CVPDL_2025_HW2)) and image generation ([DDPM](https://github.com/LinMarc1210/CVPDL_2025_HW3)) |
-
-### GitHub stats
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=LinMarc1210&show_icons=true&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LinMarc1210&layout=compact&hide_border=true" alt="Top languages" />
-</p>
