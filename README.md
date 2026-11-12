@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm LinMarc 👋</h1>
 
 <p align="center">
-  IIM major &amp; CSIE double major @ National Cheng Kung University<br/>
+  M.S. student @ National Taiwan University<br/>
   Interested in <b>compilers</b>, <b>computer architecture / AI accelerators</b>, and <b>LLM inference performance</b>
 </p>
 
@@ -9,7 +9,8 @@
 
 ### About me
 
-- 🎓 Information & Industrial Management + Computer Science (double major), NCKU
+- 🎓 M.S. student at National Taiwan University (NTU)
+- 🎓 B.S. in Information & Industrial Management, double major in Computer Science, National Cheng Kung University (NCKU)
 - 🔧 Building compiler optimization passes on LLVM and a Rust-subset front-end
 - 🧮 Exploring systolic-array accelerator simulation (SCALE-Sim, TPU modeling)
 - ⚡ Working on LLM inference performance modeling and GPU benchmarking
