@@ -13,7 +13,6 @@
 - 🔧 Building compiler optimization passes on LLVM and a Rust-subset front-end
 - 🧮 Exploring systolic-array accelerator simulation (SCALE-Sim, TPU modeling)
 - ⚡ Working on LLM inference performance modeling and GPU benchmarking
-- 🤝 Member of GDG on Campus NCKU
 
 ### Tech stack
 
